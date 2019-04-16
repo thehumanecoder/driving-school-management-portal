@@ -1,0 +1,74 @@
+
+body,html{
+    height:100%;
+    background-image:url('https://pixabay.com/get/e835b5072afd053ed1584d05fb0938c9bd22ffd41cb5164095f2c071a5/navigation-1048294_1280.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.title{
+    font-family: 'Charm', cursive;
+   
+}
+.card{
+    background:rgba(225,225,225,0.3);
+}
+.card-header{
+    background:none;
+}
+.symbiot{
+    height:100%;
+    width:100%;
+    background:rgb(0,0,0,0.2);
+}
+.classme{
+    position:fixed;
+    top: 50%;
+    left: 50%;
+    width:30em;
+    height:18em;
+    margin-top: -9em; /*set to a negative number 1/2 of  height*/
+    margin-left: -15em; /*set to a negative number 1/2 of  width*/
+}
+.form-signin {
+    max-width: 330px;
+    padding: 15px;
+    margin: 0 auto;
+    background:rgb(0,0,0,0.5);
+    border:2px solid rgb(0,0,0,1);
+  }
+  .form-signin .form-signin-heading,
+  .form-signin .checkbox {
+      color:white;
+    margin-bottom: 10px;
+  }
+  .form-signin .checkbox {
+    font-weight: normal;
+  }
+  .form-signin .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+  }
+  .form-signin .form-control:focus {
+    z-index: 2;
+  }
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+.cpn{
+
+}
